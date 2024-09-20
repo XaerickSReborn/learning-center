@@ -9,7 +9,5 @@
       "description": "Sample Course"
       }
     ],
-    "enrollments": [],
-    "progress-record-items": [],
-    "learning-path-items": []
+    "enrollments": []
 }
